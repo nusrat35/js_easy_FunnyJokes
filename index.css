@@ -1,0 +1,31 @@
+body{
+    display: grid;
+    place-items: center;
+    background-color: rgb(25, 97, 16);
+}
+.container{
+    background-color: rgba(0, 0, 0, 0.6);
+    height: 250px;
+    width: 700px;
+    padding: 20px 20px;
+    color: white;
+    text-align: center;
+}
+#joke{
+    background-color: aliceblue;
+    color: black;
+    padding: 5px 5px;
+    width: 650px;
+    line-height: 50px;
+    font-size: 20px;
+}
+button {
+    background: rgb(236, 156, 35);
+    width: 250px;
+    height: 40px;
+    color: white;
+    font-size: 15px;
+    border: 0;
+    cursor: pointer;
+    margin-top: 10px;
+}
